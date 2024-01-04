@@ -9,3 +9,6 @@ If you have a dependency error run:
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 ```
+
+Implemented based on Andrei Karpathy's video:
+https://www.youtube.com/watch?v=kCc8FmEb1nY
